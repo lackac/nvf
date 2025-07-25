@@ -35,9 +35,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "154e5f578f8925135a9dd23764d4c33a10c7ae36",
-      "url": "https://github.com/yetone/avante.nvim/archive/154e5f578f8925135a9dd23764d4c33a10c7ae36.tar.gz",
-      "hash": "0hx5ccfkn7ljnprzl6qwvb9ba86zrkqysh18zvnaq360g95d4ca1"
+      "revision": "bd69ae14f6f1f21642e16c16cbd18954f62365aa",
+      "url": "https://github.com/yetone/avante.nvim/archive/bd69ae14f6f1f21642e16c16cbd18954f62365aa.tar.gz",
+      "hash": "1r5ag40iwmgkjjlfn9lh8ym6l89r62kj0ykrladbdzr7qwbimisc"
     },
     "base16": {
       "type": "Git",
